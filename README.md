@@ -176,6 +176,6 @@ I'm always open to discussing cloud architecture, data engineering, serverless t
 
 ---
 
-*Last updated: November 2024*
+*Last updated: November 2025*
 
 </div>
