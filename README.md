@@ -126,15 +126,14 @@ An AI-powered chaos engineering pipeline that integrates with any Infrastructure
 
 ### 🎮 Godot Narrative Game
 
-A first-person narrative game focused on immersive storytelling and interactive gameplay mechanics.
+Currently working on a first-person narrative game focused on immersive storytelling and interactive gameplay mechanics.
 
 **Tech Stack**: 
 - **Engine**: Godot Game Engine
-- **Role**: Solo Developer
+- **Role**: Main Developer
 
 **Highlights**: 
-- Managed entire development process from concept design to final deployment
-- Created engaging narrative experiences
+- Creating engaging narrative experiences
 - Implemented complex gameplay mechanics
 
 ---
