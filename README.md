@@ -139,68 +139,6 @@ A first-person narrative game focused on immersive storytelling and interactive 
 
 ---
 
-## 💼 Professional Experience
-
-### **Storm Reply Rome** | AWS Cloud Architect, Data and Backend Engineer
-*Nov 2024 - Present*
-
-- 🏗️ Designed and implemented complex **data pipelines** for a prominent Italian public company, efficiently processing **hundreds of millions of rows** using AWS services
-- ⚡ Specialized in **backend development** and **serverless architectures**, developing web servers with **Nest.js**, **Express**, and **FastAPI**
-- 💰 Automated processes and optimized **ETL workflows**, reducing costs by over **60%**
-- 🔧 Managed infrastructure with **GitHub Actions**, **Terraform**, and **Terragrunt**
-- 🤝 Collaborated within an **Agile team** to deliver production-ready cloud solutions
-
-### **PwC** | Technology Strategy Consultant
-*Sep 2024 - Nov 2024*
-
-- 📊 Assisted in developing **cloud governance** and **digital transformation** roadmaps for major clients
-- ✅ Enhanced compliance frameworks and improved **risk management** processes
-- 📈 Improved project management frameworks, increasing delivery efficiency
-
-### **NS12** | Full Stack Developer Intern
-*Feb 2024 - Aug 2024*
-
-- 🔌 Developed a **microservices backend** using **Nest.js** with REST APIs
-- 📱 Contributed to **React Native mobile application** development
-- 🎯 Enhanced system performance, scalability, and user experience
-
-### **Freelance** | Web Developer and Designer
-*Apr 2021 - Dec 2023*
-
-- 🌐 Developed websites for diverse clients using **WordPress**, **Elementor**, and custom **CSS/JS**
-- 🎨 Enhanced UI/UX design aligning with clients' brand and business needs
-- 🔍 Optimized websites for search engines with effective **SEO strategies**
-
----
-
-## 🎓 Education
-
-**La Sapienza, University of Rome**
-
-- 🎓 **Master's Degree** in Computer Engineering | **110/110 cum laude** (with honors)
-- 🎓 **Bachelor's Degree** in Computer Engineering | **110/110**
-
----
-
-## 🏆 College Achievements & Competitions
-
-### 🔐 **CyberChallenge** — Cybersecurity Contest
-- Selected in the **top 20 out of 500+ students**
-- Placed **3rd in local finals**
-- Demonstrated advanced cybersecurity skills and problem-solving abilities
-
-### 🎮 **MetaSpace** — Gamification Contest
-- Developed a **physics/astronomy learning game** in Unity
-- Won **2nd prize** for combining education with gamification
-- Created engaging educational content through game mechanics
-
-### 📱 **Exams Rating** — UI/UX Design Contest
-- Designed & prototyped an app in **Figma**, **Photoshop**, **Adalo** to rate university courses
-- Demonstrated strong UI/UX design capabilities
-- Created user-centered design solutions
-
----
-
 ## 📜 Certifications
 
 <div align="center">
@@ -226,24 +164,6 @@ A first-person narrative game focused on immersive storytelling and interactive 
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tommaiberone&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-### ✍️ Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
 
 ### 💬 Let's Connect!
 
