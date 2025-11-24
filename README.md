@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Dynamic Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Tommaso!&fontSize=80&fontAlign=50&fontAlignY=35&animation=twinkling" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=%20%20Hi%20there,%20I'm%20Tommaso!%20%20&fontSize=80&fontAlign=50&fontAlignY=35&animation=twinkling" alt="Header" />
 
 **AWS Cloud Architect | Backend Engineer | Data Engineer**
 
